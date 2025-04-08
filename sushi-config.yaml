@@ -2,7 +2,7 @@
 id: hl7.fhir.eu.extensions
 [r4-end]
 [r5-init]
-id: hl7.fhir.eu.extensions.r5
+id: hl7.fhir.eu.r5.extensions
 [r5-end]
 
 canonical: http://hl7.eu/fhir/extensions
